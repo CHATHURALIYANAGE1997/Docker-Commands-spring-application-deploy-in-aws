@@ -4,3 +4,4 @@
 First you have to create a ec2-instance with required security group acoding to your requirement. 
 
 ## 2nd step
+# Install following things
