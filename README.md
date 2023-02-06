@@ -20,3 +20,7 @@ Now, go ahead and install Docker</br>
   [ec2-user]$ exit</br>
 > ssh -i my-ec2-key-pair.pem ec2-user@EC2-INSTANCE-PUBLIC-IP-ADDRESS</br>
 [ec2-user]$ docker info
+
+## 5th step
+Now you can run your image
+> [ec2-user]$ docker run -d -p 80:8080 username/dockerimagename:latest 
