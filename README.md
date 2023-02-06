@@ -1,4 +1,4 @@
-## Problem of the client
+### Problem of the client
 Travelers tend to use online platforms. 
 Travelers feel unsafe hiking in an unknown/new area. 
 Less awareness of the best hiking trails available
