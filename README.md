@@ -15,3 +15,8 @@ Now, go ahead and install Docker</br>
   [ec2-user]$ sudo yum install -y docker</br>
   [ec2-user]$ sudo service docker start</br>
   
+## 4th step
+[ec2-user]$ sudo usermod -a -G docker ec2-user</br>
+[ec2-user]$ exit</br>
+> ssh -i my-ec2-key-pair.pem ec2-user@EC2-INSTANCE-PUBLIC-IP-ADDRESS</br>
+[ec2-user]$ docker info
