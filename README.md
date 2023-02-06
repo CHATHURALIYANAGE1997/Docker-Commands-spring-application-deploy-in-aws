@@ -11,7 +11,7 @@ On the location where Key Pair is saved, open terminal and type the following co
 
 ## 3rd step
 Now, go ahead and install Docker</br>
-  [ec2-user]$ sudo yum update -y</br>
+> [ec2-user]$ sudo yum update -y</br>
   [ec2-user]$ sudo yum install -y docker</br>
   [ec2-user]$ sudo service docker start</br>
   
